@@ -1,0 +1,27 @@
+﻿Report Name: C:\Users\henri\OneDrive\KTH\Year 4\CAD 3D\Temp\report.txt
+Report Time: 2022-05-20 02:19:36
+Report Options:
+    Part Names
+
+Select Set #1:
+    Skydd.par:1
+    Grund.par:1
+
+Interferences:
+    1 of 4
+    Grund.par:1
+    Screw_BS_EN_ISO_1580_2011_M2.0x6_v16.00.par:1
+
+    2 of 4
+    Grund.par:1
+    Screw_BS_EN_ISO_1580_2011_M2.0x6_v16.00.par:2
+
+    3 of 4
+    Grund.par:1
+    Screw_BS_EN_ISO_1580_2011_M2.0x6_v16.00.par:3
+
+    4 of 4
+    Grund.par:1
+    Screw_BS_EN_ISO_1580_2011_M2.0x6_v16.00.par:4
+
+    4 Interferences Detected
